@@ -1,6 +1,2 @@
-![Screenshot_1696768955](https://github.com/abusufiancse/e-commarce_flutter/assets/68639263/87492cdf-da39-442e-a63f-db2f7f686c57)
-![Screenshot_1696768960](https://github.com/abusufiancse/e-commarce_flutter/assets/68639263/5ccee5f6-07c4-4814-b5d7-b5314ac13f48)
-![Screenshot_1696768963](https://github.com/abusufiancse/e-commarce_flutter/assets/68639263/0e36b8a0-8aed-480c-85cf-47e72b5a3a21)
-![Screenshot_1696768966](https://github.com/abusufiancse/e-commarce_flutter/assets/68639263/8c9b82b1-8c4f-4de9-9366-7514bdbdf572)
-![Screenshot_1696768987](https://github.com/abusufiancse/e-commarce_flutter/assets/68639263/9d04c1e0-a6c0-4527-ba2b-955a9cbfbdd4)
-![Screenshot_1696768994](https://github.com/abusufiancse/e-commarce_flutter/assets/68639263/cdfdef89-4b69-4178-9cc9-6106dfbcca89)
+![1st](https://github.com/abusufiancse/e-commarce_flutter/assets/68639263/8f62fffc-6862-4021-a4ee-a362cf2b4303)
+![2nd](https://github.com/abusufiancse/e-commarce_flutter/assets/68639263/2b60ddc3-a6cf-4ff3-a579-15d3c318f562)
